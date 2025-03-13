@@ -28,8 +28,15 @@ To get started with this in Visual Studio follow the steps below.
 ## Get started outside of Visual Studio
 Make sure you have the latest stable version of Node installed. Then run the commands below.
 
+
 - cd todojswebapp
 - npm ci
-- npm run dev  
+- npm run dev
+
+## Warning by Hayati TAŞTAN: 
+Before the release of React 15.5.0, PropTypes were available in the React package, but now you have to add the prop-types library in your project.
+You can do so by running the following command in your terminal with admin:
+- npm install prop-types --save
+
 ## License
 This project is licensed under the MIT License.
