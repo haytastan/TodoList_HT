@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+## Introduction
 This is a simple TODO app built with using JavaScript in Visual Studio (https://learn.microsoft.com/en-us/visualstudio/javascript/javascript-in-visual-studio?view=vs-2022). This front-end uses React and Vite.
 
 ## Get started in Visual Studio 2022
@@ -29,7 +30,7 @@ To get started with this in Visual Studio follow the steps below.
 Make sure you have the latest stable version of Node installed. Then run the commands below.
 
 
-- cd todojswebapp
+- cd TodoList_HT
 - npm ci
 - npm run dev
 
